@@ -4,7 +4,8 @@
 
 ## <span style="color: lime">🤷‍♂️ **About Me** 🤷‍♂️</span>
 - 🎉 I'm trying to become Cloud Architect
-- 📚 I’m currently learning everything 😂
+- 📚 I’m currently learning everything
+- 😂 I'm Windows & KaliLinux user
 
 <br>
 
