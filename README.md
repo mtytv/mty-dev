@@ -9,6 +9,7 @@
 <br>
 
 ## <span style="color: lime"> 🏆 **2022 Goals** 🏆</span>
+- Create nice designed profile on GitHub
 - Learn more about Bash scripting
 - Learn more about Powershell scripting
 - Learn more about Python scripting
