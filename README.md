@@ -3,7 +3,7 @@
 <br>
 
 ## <span style="color: lime">🤷‍♂️ **About Me** 🤷‍♂️</span>
-- 🎉 I'm trying to become Cloud Architect
+- 🎉 I'm trying to become DevOps
 - 📚 I’m currently learning everything 😂
 
 <br>
