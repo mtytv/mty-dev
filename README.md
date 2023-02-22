@@ -2,7 +2,7 @@
 <br>
 
 ## <span style="color: lime">🤷‍♂️ **About Me** 🤷‍♂️</span>
-- 🎉 I'm trying to become DevOps
+- 🎉 Junior DevOps Engineer
 - 📚 I’m currently learning everything 😂
 <br>
 
