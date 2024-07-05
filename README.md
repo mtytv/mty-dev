@@ -4,13 +4,19 @@
 ## <span style="color: lime">🤷‍♂️ **About Me** 🤷‍♂️</span>
 - 🎉 DevOps Engineer
 - 🎮 Gaming fan
-- 🐶 Dogs owner
-- 🐱 Cat owner
+<br>
+
+## <span style="color: lime">🤷‍♂️ **Knowledge** 🤷‍♂️</span>
+- 🎉 Python
+- 🎉 Java Script
+- 🎉 Bash
+- 🎉 Linux (RedHat Family, Debian Family)
+- 🎉 Kubernetes
+- 🎉 Openshift
 <br>
 
 ## <span style="color: lime">🤷‍♂️ **What i do?** 🤷‍♂️</span>
 - 🎉 Being part of banking projects
 - 🎮 Play a lot of games
-- 🎮 Co-owner of community server
 - 🎮 Write some basic plugins to servers
 <br>
