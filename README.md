@@ -10,7 +10,9 @@
 - 🎉 Python
 - 🎉 Java Script
 - 🎉 Bash
+- 🎉 Groovy
 - 🎉 Linux (RedHat Family, Debian Family)
+- 🎉 Jenkins / Gitlab CI/CD / Github Actions
 - 🎉 Kubernetes
 - 🎉 Openshift
 <br>
